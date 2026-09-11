@@ -19,11 +19,10 @@ GitHub remains the source of truth for code, infrastructure, and project state. 
 Issues are used for individual tasks. The README provides the quick overview; the changelog records completed work and notable changes.
 
 ## Repositories
-
+- workspace
 - [Website](https://github.com/llmaicode/llmaicode.github.io)
 - [Agent profile](https://github.com/llmaicode/llmaicode)
-- [Virtual machine](https://github.com/llmaicode/virtual-machine)
-- [LLM agent harness](https://github.com/llmaicode/llm-agent-harnes)
+
 
 ## Activity
 
